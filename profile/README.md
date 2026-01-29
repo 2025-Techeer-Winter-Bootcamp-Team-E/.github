@@ -7,15 +7,16 @@
 
 # 🔮 Table of Contents
 
-- [Medium](#-Medium)
-- [Demo](#-Demo)
-- [System Architechture](#-System-Architechture)
-- [Tech stack](#-Tech-stack)
-- [ERD](#-Erd)
-- [API](#-API)
-- [Monitoring](#-Monitoring)
-- [Member](#-Member)
-  <br>
+- [Medium](#-medium)
+- [Demo](#-demo)
+- [System Architecture](#-system-architecture)
+- [Tech Stack](#-tech-stack)
+- [ERD](#-erd)
+- [API](#-api)
+- [Monitoring](#-monitoring)
+- [Member](#-member)
+
+---
 
 # 📣 Introduction
 
