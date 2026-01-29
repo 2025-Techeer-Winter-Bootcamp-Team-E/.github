@@ -46,7 +46,7 @@
 
 
 
-
+<a id="system-architecture"></a>
 # 🛠 ️System Architecture
 
 
@@ -62,7 +62,7 @@
   <img width="2280" height="1280" alt="6yAqyRMDuryGmFYcY" src="https://github.com/user-attachments/assets/36f20c9d-8923-4c48-95fe-75779ed19767" />
 </p>
 
-
+<a id="tech-stack"></a>
 # 🛠 ️Tech Stack
 
 
