@@ -10,7 +10,7 @@
 - [Introduction](#-introduction)
 - [Medium](#medium)
 - [Demo](#-demo)
-- [System Architecture](#-system-architecture)
+- [System Architecture](#system-architecture)
 - [Tech Stack](#-tech-stack)
 - [ERD](#-erd)
 - [API](#-api)
