@@ -34,6 +34,18 @@
 
 # 📗 API
 
+
+<p align="center">
+  ![API_1](https://github.com/user-attachments/assets/483233fd-e418-46af-8154-8c8fc36b28ea)
+  ![API_2](https://github.com/user-attachments/assets/562df6c6-312c-44c6-9a9f-99d3a23504da)
+  ![API_3](https://github.com/user-attachments/assets/cb2e29ac-20f9-4b17-8424-6a969ab67b81)
+  ![API_4](https://github.com/user-attachments/assets/99cd22c0-8e7b-4e6a-8ce4-c70635916c7f)
+  ![API_5](https://github.com/user-attachments/assets/53a0bbf9-7d8b-40f2-bea5-969ff74463a3)
+</p>
+
+
+
+
 # 🛠 ️System Architecture
 
 
