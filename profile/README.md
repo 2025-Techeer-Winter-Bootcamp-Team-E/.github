@@ -11,7 +11,7 @@
 - [Medium](#medium)
 - [Demo](#-demo)
 - [System Architecture](#system-architecture)
-- [Tech Stack](#-tech-stack)
+- [Tech Stack](#tech-stack)
 - [ERD](#-erd)
 - [API](#-api)
 - [Monitoring](#-monitoring)
@@ -63,7 +63,7 @@
 </p>
 
 
-# 🛠 ️System Architecture
+# 🛠 ️Tech Stack
 
 
 <div align="center">
