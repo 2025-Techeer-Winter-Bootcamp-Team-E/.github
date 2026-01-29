@@ -7,7 +7,8 @@
 
 # 🔮 Table of Contents
 
-- [Medium](#-medium)
+- [Introduction](#-introduction)
+- [Medium](#medium)
 - [Demo](#-demo)
 - [System Architecture](#-system-architecture)
 - [Tech Stack](#-tech-stack)
