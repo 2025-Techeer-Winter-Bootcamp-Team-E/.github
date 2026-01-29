@@ -34,6 +34,21 @@
 
 # 📗 API
 
+# 🛠 ️System Architecture
+
+
+<p align="center">
+  <img width="5360" height="3152" alt="image" src="https://github.com/user-attachments/assets/83fa4df8-58e8-4d52-aa89-d4fbbc4048a0" />
+  <img width="7584" height="6304" alt="image" src="https://github.com/user-attachments/assets/987ed663-6134-40c0-b47d-1cbc3067de02" />
+</p>
+
+# 🔑 ERD
+
+
+<p align="center">
+  <img width="2280" height="1280" alt="6yAqyRMDuryGmFYcY" src="https://github.com/user-attachments/assets/36f20c9d-8923-4c48-95fe-75779ed19767" />
+</p>
+
 
 # 🛠 ️System Architecture
 
@@ -118,6 +133,8 @@
     </tr>
   </table>
 </div>
+
+
 
 # 📊 Monitoring
 
