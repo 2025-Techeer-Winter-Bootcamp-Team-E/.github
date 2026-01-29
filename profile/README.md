@@ -36,14 +36,14 @@
 
 
 <p align="center">
-  ![API_1](https://github.com/user-attachments/assets/483233fd-e418-46af-8154-8c8fc36b28ea)
-  ![API_2](https://github.com/user-attachments/assets/562df6c6-312c-44c6-9a9f-99d3a23504da)
-  ![API_3](https://github.com/user-attachments/assets/cb2e29ac-20f9-4b17-8424-6a969ab67b81)
-  ![API_4](https://github.com/user-attachments/assets/99cd22c0-8e7b-4e6a-8ce4-c70635916c7f)
-  ![API_5](https://github.com/user-attachments/assets/53a0bbf9-7d8b-40f2-bea5-969ff74463a3)
+  ![API_1](https://github.com/user-attachments/assets/42544685-c4cb-4379-a8bf-656abf92e728)
+  ![API_2](https://github.com/user-attachments/assets/0b1284f0-fa10-45ee-80a3-9003fdbf8119)
+  ![API_3](https://github.com/user-attachments/assets/fc112947-b1f3-44a8-a1e6-86b02a9b909e)
+  ![API_4](https://github.com/user-attachments/assets/06ac291e-9a37-4ff6-8830-4635fd899471)
+  ![API_5](https://github.com/user-attachments/assets/1ac1144a-dca1-4157-a3bd-311ebd500325)
 </p>
 
-![API_1](https://github.com/user-attachments/assets/42544685-c4cb-4379-a8bf-656abf92e728)
+
 
 
 
