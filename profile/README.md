@@ -36,11 +36,11 @@
 
 
 <p align="center">
-  ![API_1](https://github.com/user-attachments/assets/42544685-c4cb-4379-a8bf-656abf92e728)
-  ![API_2](https://github.com/user-attachments/assets/0b1284f0-fa10-45ee-80a3-9003fdbf8119)
-  ![API_3](https://github.com/user-attachments/assets/fc112947-b1f3-44a8-a1e6-86b02a9b909e)
-  ![API_4](https://github.com/user-attachments/assets/06ac291e-9a37-4ff6-8830-4635fd899471)
-  ![API_5](https://github.com/user-attachments/assets/1ac1144a-dca1-4157-a3bd-311ebd500325)
+  <img src="https://github.com/user-attachments/assets/42544685-c4cb-4379-a8bf-656abf92e728" width="800" alt="API_1" />
+  <img src="https://github.com/user-attachments/assets/0b1284f0-fa10-45ee-80a3-9003fdbf8119" width="800" alt="API_2" />
+  <img src="https://github.com/user-attachments/assets/fc112947-b1f3-44a8-a1e6-86b02a9b909e" width="800" alt="API_3" />
+  <img src="https://github.com/user-attachments/assets/06ac291e-9a37-4ff6-8830-4635fd899471" width="800" alt="API_4" />
+  <img src="https://github.com/user-attachments/assets/1ac1144a-dca1-4157-a3bd-311ebd500325" width="800" alt="API_5" />
 </p>
 
 
