@@ -151,6 +151,14 @@
 
 # 📊 Monitoring
 
+
+
+<p align="center">
+  <img width="692" height="606" alt="Image20260129205607" src="https://github.com/user-attachments/assets/eda23e8b-8553-4b87-a15f-    f6c00c4162fb" />
+  <img width="729" height="612" alt="Image20260129205613" src="https://github.com/user-attachments/assets/5998ba38-351a-4e94-b352-  2e3aa028c911" />
+  <img width="726" height="319" alt="Image20260129205617" src="https://github.com/user-attachments/assets/6490c44c-0c71-4c25-b3b2-    f86af28ad8b6" />
+</p>
+
 # 🔧Logging
 
 # 👥 Member
