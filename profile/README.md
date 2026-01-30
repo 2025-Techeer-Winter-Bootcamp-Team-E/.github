@@ -28,9 +28,22 @@
 ### Medium
 
 > [modulo-Medium](https://medium.com/@modulo_)
-> <br>
+
+<br>
 
 # 🕺🏻 Demo
+## 메인페이지
+![main](../assets/modulo-main.gif)
+## 쇼핑에이전트
+![ai-agent](../assets/modulo-ai-agent.gif)
+## 상품 페이지
+![product](../assets/modulo-product.gif)
+## 타이머 등록
+![product-timer](../assets/modulo-product-timer.gif)
+## 토큰 & 주문/결제
+![checkout](../assets/modulo-checkout.gif)
+
+<br>
 
 # 📗 API
 
